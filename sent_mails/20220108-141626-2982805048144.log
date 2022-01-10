@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: innocentsiziba84@gmail.com
+Date: Sat, 08 Jan 2022 12:16:26 -0000
+Message-ID: <164164418630.5988.13521574281252077990@DESKTOP-3F9U7TO.local.tld>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Mg/ayxrne-8496e8965422394c5a6a2a4addca1983/
+
+Your username, in case you’ve forgotten: inno@gmail.com
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
